@@ -1,0 +1,8 @@
+exclude:
+# Directories
+- data
+# Files
+- .gitignore
+- README.md
+permalink: /:categories/:title
+title: Occupy the Globe
