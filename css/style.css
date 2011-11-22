@@ -1,0 +1,96 @@
+body {
+  background: #FFF;
+  color: #333;
+}
+
+#main {
+}
+
+#navigation {
+}
+
+#navigation ul li {
+  float: left;
+  text-decoration: none;
+  list-style-type: none;
+  padding-left: 30px;
+  padding-top: 8px;
+}
+
+#navigation a {
+  text-decoration: none;
+  font-size: 22px;
+  color: #fff;
+}
+
+a:hover,
+a:visited,
+a:link {
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kreon', serif;
+}
+
+h2 {
+  font: 24px/18px;
+  font-weight: normal;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+#header h1 {
+  margin-bottom: 0;
+  color: #FFF;
+  text-decoration: none;
+  font-family: 'Kreon', serif;
+}
+
+#navigation a {
+  font-family: 'Kreon', serif;
+  text-transform: uppercase;
+}
+
+#name a:hover {
+  color: #fb4d3a;
+}
+
+#navigation a:hover {
+  border-bottom: 4px solid #fb4d3a;
+  color: #eee;
+}
+
+#name a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 32px;
+}
+
+#header {
+  background-color: #333;
+  height: 50px;
+}
+
+hr {
+  margin: 5px 0;
+}
+
+#footer p,
+#footer a {
+  color: #999;
+  font-size: 12px;
+}
+
+#content {
+  margin-top: 10px;
+}
+
+#info {
+  margin-top: 10px;
+}
+
+p, ul, li, a {
+  font-size: 16px;
+  color: #555;
+}
