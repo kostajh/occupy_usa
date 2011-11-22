@@ -7,3 +7,4 @@ exclude:
 - README.md
 permalink: /:categories/:title
 title: Occupy USA
+url: https://kostajh.github.com/occupy_usa
