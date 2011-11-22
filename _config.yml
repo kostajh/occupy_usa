@@ -1,3 +1,4 @@
+auto: true
 exclude:
 # Directories
 - data
@@ -5,4 +6,4 @@ exclude:
 - .gitignore
 - README.md
 permalink: /:categories/:title
-title: Occupy the Globe
+title: #Occupy USA
