@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<section role="banner">
+<iframe width='960' height='500' frameBorder='0' src='http://a.tiles.mapbox.com/v3/mapbox.world-bright,upload.uyq83sjz/mm/share,zoompan,zoomwheel,legend,tooltips,zoombox,attribution.html#5/36.3411/-95.86670000000001'></iframe>
+</section>
+
+<div id="info">
+<div class="grid_6">
+  <a name="#about"><h2>About</h2></a>
+  <p>This map shows <a href="https://twitter.com/#!/search?q=%23occupy">#Occupy</a> protests across the United States.</p>
+  <p>The data is incomplete; you are encouraged to send us information about cities that are not yet on the map, or you can submit corrections to data that is already present.</p>
+  <p>Code contributions and data overlays are also welcome.</p>
+</div>
+<div id="news" class="grid_6">
+  <h2>News</h2>
+    <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+</div>
