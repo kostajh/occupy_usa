@@ -6,4 +6,4 @@ exclude:
 - .gitignore
 - README.md
 permalink: /:categories/:title
-title: #Occupy USA
+title: Occupy USA
