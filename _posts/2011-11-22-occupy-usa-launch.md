@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Occupy USA goes live
-published: false
+published: true
 ---
 
 ##{{ page.title }}
