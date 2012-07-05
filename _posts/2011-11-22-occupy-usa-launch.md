@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Occupy USA goes live
+published: true
 ---
 
 ##{{ page.title }}
@@ -30,3 +31,4 @@ If you would like to help add overlays of data to the map, or assist with the we
 Onwards,
 
 Kosta
+
