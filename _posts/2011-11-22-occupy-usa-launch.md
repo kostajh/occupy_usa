@@ -8,7 +8,7 @@ published: true
 
 **Nov 22, 2011**
 
-The goal of this project is to help visualize data about the #Occupy movement. My hope is for this to become a collective project that tells the heroic story of the 99% in struggle against the exploitation and repression of the 1%.
+The goal of this project is to help visualize data about the `#Occupy` movement. My hope is for this to become a collective project that tells the heroic story of the 99% in struggle against the exploitation and repression of the 1%.
 
 There are already a couple of mapping projects out there about Occupy, so why another one?
 
